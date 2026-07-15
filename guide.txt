@@ -1,0 +1,16 @@
+Github Commands
+
+1.git clone <githublink>
+= this helps to clone the Github repo into uc system 
+
+2. git add . 
+= this helps us to add all the files and folder the commit stage
+
+3. git commit -m "changes text"
+= this helps us to understand what changes we have done to code 
+
+4. git push 
+= this helps us to push/send all the filkes and folder or codes to the Github
+
+5. git pull
+= this helps us to get the upated code into our system from github 
